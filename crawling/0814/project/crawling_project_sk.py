@@ -28,11 +28,12 @@ sk_table=bs.find_all('tbody')
 
 sk_row=sk_table[12]
 sk_cash=sk_row.find_all('tr')
-sk_cash2=sk_cash[14]
+sk_cash2=sk_cash[1]
 sk_roe=sk_cash[21]
 sk_per=sk_cash[26]
 sk_pbr=sk_cash[28]
-sk_cash_flow=sk_cash2.find_all('span',{'class':'cUp'})
+sk_cash_flow=sk_cash2.find_all('span',{'class':'cBk'})
+sk_cash_flow1=sk_cash2.find_all('span',{'class':'cUp'})
 sk_roe2=sk_roe.find_all('span',{'class':'cBk'})
 sk_roe3=sk_roe.find_all('span',{'class':'cUp'})
 sk_per2=sk_per.find_all('span',{'class':'cBk'})
@@ -41,6 +42,8 @@ sk_pbr2=sk_pbr.find_all('span',{'class':'cBk'})
 
 sk_c_list=[]
 for c in sk_cash_flow:
+    sk_c_list.append(c.text)
+for c in sk_cash_flow1:
     sk_c_list.append(c.text)
 
 sk_roe_list=[]
@@ -59,7 +62,8 @@ sk_pbr_list=[]
 for p in sk_pbr2:
     sk_pbr_list.append(p.text)
 
-sk_c_dict={'2021':sk_c_list[0],'2022':sk_c_list[1],'2023':sk_c_list[2]}
+# print(sk_c_list)
+sk_c_dict={'2021':sk_c_list[0],'2022':sk_c_list[1],'2023':sk_c_list[-2]}
 # print(sk_c_dict)
 
 # print(sk_roe_list)
@@ -76,9 +80,9 @@ sk_p_dict={'2021':sk_p_list[0],'2022':sk_p_list[1],'2023':0}
 sk_pbr_dict={'2021':sk_pbr_list[0],'2022':sk_pbr_list[1],'2023':sk_pbr_list[2]}
 # print(sk_pbr_dict)
 
-sk=pd.DataFrame([sk_c_dict,sk_r_dict,sk_p_dict,sk_pbr_dict],index=['투자활동현금흐름','ROE','PER','PBR'])
+sk=pd.DataFrame([sk_c_dict,sk_r_dict,sk_p_dict,sk_pbr_dict],index=['영업이익','ROE','PER','PBR'])
 # print(tabulate(sk,headers='keys',tablefmt='psql'))
-sk.loc['투자활동현금흐름']=sk.loc['투자활동현금흐름'].str.replace(',','')
+sk.loc['영업이익']=sk.loc['영업이익'].str.replace(',','')
 # print(tabulate(sk,headers='keys',tablefmt='psql'))
 sk['2021']=sk['2021'].astype('float')
 # print(tabulate(sk,headers='keys',tablefmt='psql'))
@@ -89,10 +93,10 @@ sk['2022']=sk['2022'].astype('float')
 sk['2023']=sk['2023'].astype('float')
 # print(tabulate(sk,headers='keys',tablefmt='psql'))
 sk=sk.T
-print(tabulate(sk,headers='keys',tablefmt='psql'))
+print(tabulate(sk,headers='keys',tablefmt='psql',numalign='right'))
 
 def plot_maker(x,y,title,color):
-    plt.plot(x,y,'o:',color=color)
+    plt.plot(x,y,'o-',color=color,linewidth=4)
     plt.title(title)
     plt.grid(linestyle=':')
     for i in range(len(x)):
@@ -104,30 +108,30 @@ def plot_maker(x,y,title,color):
     plt.show()
 
 def plot_maker2(x,y,title,color):
-    plt.plot(x,y,'o:',color=color)
+    plt.plot(x,y,'o-',color=color,linewidth=4)
     plt.title(title)
     plt.grid(linestyle=':')
     for i in range(len(x)):
         height = y[i]
-        plt.text(x[i], height + 0.25, '%.0f' %height, ha='center', va='bottom', size = 12)
+        plt.text(x[i], height + 0.25, '%.2f' %height, ha='center', va='bottom', size = 12)
     current_values = plt.gca().get_yticks()
-    plt.gca().set_yticklabels(['{:,.0f}'.format(x) for x in current_values])
+    plt.gca().set_yticklabels(['{:,.2f}'.format(x) for x in current_values])
     plt.tight_layout()
     plt.show()
 
 def plot_maker3(x,y,title,color):
-    plt.plot(x,y,'o:',color=color)
+    plt.plot(x,y,'o-',color=color,linewidth=4)
     plt.title(title)
     plt.grid(linestyle=':')
     for i in range(len(x)):
         height = y[i]
-        plt.text(x[i], height + 0,'%.0f' %height, ha='center', va='bottom', size = 12)
+        plt.text(x[i], height + 0,'%.2f' %height, ha='center', va='bottom', size = 12)
     current_values = plt.gca().get_yticks()
-    plt.gca().set_yticklabels(['{:,.0f}'.format(x) for x in current_values])
+    plt.gca().set_yticklabels(['{:,.2f}'.format(x) for x in current_values])
     plt.tight_layout()
     plt.show()
 
-plot_maker(sk.index,sk.iloc[:,0],'투자활동현금흐름','#FF7AA2')
+plot_maker(sk.index,sk.iloc[:,0],'영업이익','#FF7AA2')
 plot_maker2(sk.index,sk.iloc[:,1],'ROE','#68CCA9')
 plot_maker2(sk.index,sk.iloc[:,2],'PER','#F2DC76')
 plot_maker3(sk.index,sk.iloc[:,3],'PBR','#A397C9')
