@@ -1,0 +1,121 @@
+순번,일자,항공사,기종,비행단계,탑승,사망,사고 개요
+1,2023-01-01,Flair Airlines,Boeing 737 MAX 8,STD,154,,"Flair Airlines 소속 Boeing 737 MAX 8 항공기가 캐나다 Kitchener-Region of Waterloo 공항에 수화물을 싣던 중 지상조업차량과 충돌해 파손, 인명피해 없음."
+2,2023-01-02,"Endeavor Air, opf Delta Connection",Bombardier CRJ-900LR,TXI,,,"Endeavor Air 소속 Bombardier CRJ-900LR 항공기가 미국 New York-JFK 공항에서 주기장 정체로 유도로에 정지 중이었으나, 착륙 후 유도로를 따라 이동 중이던 ITA항공 A330-202 기종의 윙렛과 CRJ-990LR 꼬리날개가 충돌하여 양 항공기가 손상되었으나 인명피해 없음."
+3,2023-01-02,Transavia Airlines,Boeing 737-8K2 (WL),STD,,,"Transavia Airlines 소속 Boeing 737-8K2 (WL) 항공기가 네덜란드 Rotterdam/The Hague 공항에 주기 중 지상조업차량과 충돌, 인명피해 없음."
+4,2023-01-02,Eagle Jet 300 LLC,Embraer EMB-505 Phenom 300,TOF,4,1,"Eagle Jet 300 LLC 소속 Embraer EMB-505 Phenom 300 항공기가 미국 Provo 공항에서 이륙 중 추락하여 전소, 조종사 1명 사망, 조종사 1명 중상 및 승객 2명은 경상을 입음."
+5,2023-01-03,"Amerijet International, lst Maersk Air Cargo",Boeing 767-300F,ICL,3,,"Maersk Air Cargo 소속 Boeing 767-300F 항공기가 대한민국 인천공항에서 이륙 후 초기상승 중 엔진 고장으로 화재 발생, 인천으로 회항하여 착륙하였으며 인명피해 없음."
+6,2023-01-07,JetStar Japan,Airbus A320-232 (WL),ENR,142,,"JetStar Japan 소속 Airbus A320-232 (WL) 항공기가 일본 Tokyo/Narita 공항에서 이륙하여 Fukuoka 공항으로 향하던 중 폭탄 위협을 받고 Nagoya/Chubu Centrair 공항으로 회항하여 착륙, 대피 과정에서 승객 5명이 찰과상을 입었으나 폭발물은 발견되지 않음. "
+7,2023-01-09,Naryan-Mar Air Enterprise,Antonov An-2R,ENR,12,2,Naryan-Mar Air Enterprise 소속 Antonov An-2R 항공기가 심한 결빙 및 저시정 상태로 인해 러시아 Karatayka 북서쪽 10km 지점에 추락하여 탑승자 전원 사망함.
+8,2023-01-13,Air Master AP,Cessna 550 Citation II,LDG,2,,"Air Master AP 소속 Cessna 550 Citation II 항공기가 베네수엘라 Charallave-Oscar Machado Zuloaga 공항에 착륙 후 역추력장치 사용 중 갑작스런 요(Yaw)가 발생하여 활주로를 이탈하였으나, 인명피해 없음."
+9,2023-01-15,Yeti Airlines,ATR 72-500 (72-212A),APR,72,72,Yeti Airlines 소속 ATR 72-500 (72-212A) 항공기가 네팔 Pokhara 공항에 최종접근 중 인적오류 등의 이유로 추락하여 탑승자 전원 사망함.
+10,2023-01-16,Kamaka Air,Cessna 208B Super Cargomaster,APR,2,,"Kamaka Air 소속 Cessna 208B Super Cargomaster 항공기가 미국 Molokai/Kaunakakai 공항으로 야간에 접근 중 시정이 제한되는 조건에서 선회 접근하는 과정에서 적절한 고도를 유지하지 못해 지형과 충돌, 인명피해 없음."
+11,2023-01-18,Lynch Flying Service Inc,Beechcraft B200 King Air,APR,,,"Lynch Flying Service Inc 소속 Beechcraft B200 King Air 항공기가 미국 Poplar Municipal 공항에 접근 중 적절한 비행속도와 강하율을 유지하지 못해 활주로 시단에 미치지 못하고 지면에 충돌해 우측 날개가 크게 파손되었으나, 인명피해 없음."
+12,2023-01-24,BoneDoc Aviation LLC,Cessna 551 Citation II/SP,TXI,7,,"BoneDoc Aviation LLC 소속 Cessna 551 Citation II/SP 항공기가 미국 Joplin Regional 공항에서 지상이동 중 브레이크 고장으로 FBO 건물과 충돌하였으나, 인명피해 없음."
+13,2023-01-25,All Nippon Airways - ANA,Boeing 767-381ER (BCF),TXI,2,,"All Nippon Airways 소속 Boeing 767-381ER (BCF) 항공기가 일본 Tokyo/Narita 공항에서 화물기 주기장에서 선회 중 강풍 및 얼음으로 인해 미끄러지면서 지상조업장비와 충돌하여 동체에 15cm 가량의 구멍이 생겼으나, 인명피해 없음. "
+14,2023-01-27,Chartright Air,Cessna 560 Citation Encore,ENR,5,,"Chartright Air 소속 Cessna 560 Citation Encore 항공기가 캐나다 Toronto 남쪽 50NM 지점에서 좌측 엔진 덮개가 분리되면서 항공기 제어를 상실하였으나 미국 Buffalo/Niagara 공항으로 회항하여 착륙, 인명피해 없음."
+15,2023-02-05,Hera Flight,Learjet 60,LDG,2,,"Hera Flight 소속 Learjet 60 항공기가 바하마 North Eleuthera 공항에 접근 중 인적오류 등의 이유로 불안정한 접근을 수행하여 하드랜딩으로 항공기 손상을 입었으나, 인명피해 없음. "
+16,2023-02-06,Coulson Aviation,Boeing 737-3H4 (WL),MNV,2,,"Coulson Aviation 소속 Boeing 737-3H4 (WL) 항공기가 호주 Fitzgerald River 국립공원에서 소방임무를 수행 중 지형과 충돌하여 전소하였으나, 인명피해 없음."
+17,2023-02-08,"Mag Aviation, LLC",Cirrus SF50 Vision Jet G2,LDG,2,,"Mag Aviation, LLC 소속 Cirrus SF50 Vision Jet G2 항공기가 미국 Waukesha 공항에서 이륙 후 지속되는 소음으로 이륙공항으로 회항하여 착륙 중 활주로를 이탈하여 항공기가 손상되었으나, 인명피해 없음. 조종사가 비행 전 점검에서 받음각(AOA) 센서 커버를 제거하지 않은 것으로 드러남."
+18,2023-02-10,Delta Air Lines,Boeing 767-332ER (WL),ICL,221,,"Delta Air Lines 소속 BBoeing 767-332ER (WL) 항공기가 영국 Edinburgh 공항에서 이륙 후 초기상승 중 엔진 고장으로 Prestwick 공항으로 회항 후 착륙, 인명피해 없음."
+19,2023-02-10,SkyDive Mexico,Cessna 208B Super Cargomaster,UNK,2,,SkyDive Mexico 소속 Cessna 208B Super Cargomaster 항공기가 엔진 고장으로 멕시코 San Jose Vista Hermosa 인근 잔디밭에 비상착륙하여 조종사 2명이 부상을 입음. 
+20,2023-02-10,Helifix Operation,Cessna 208B Supervan 900,LDG,4,,"Helifix Operation 소속 Cessna 208B Supervan 900 항공기가 파푸아뉴기니 Eliptamin 공항에 허용한계를 초과한 속도로 착륙 후 활주로를 이탈하여 노즈 랜딩기어가 붕괴되었으나, 인명피해 없음."
+21,2023-02-11,1982-047 LLC,Learjet 55,LDG,6,,"1982-047 LLC 소속 Learjet 55 항공기가 미국 Rochester-Greater Rochester 공항에 착륙 중 이설시단에 접지 후 튕겨나갔다가 활주로로 접지하면서 항공기가 손상되었으나, 인명피해 없음."
+22,2023-02-16,Aeromas,Cessna 208 Cargomaster,ENR,2,,"Aeromas 소속 Airbus Cessna 208 Cargomaster 항공기가 아르헨티나 Berisso 인근에서 야간에 공항을 찾지 못하고 도로에 착륙을 시도하던 중 전봇대와 충돌하여 전소하였으나, 인명피해 없음."
+23,2023-02-17,Haedo Air LLC,Honda HA-420 HondaJet,LDG,6,,"Haedo Air LLC 소속 Honda HA-420 HondaJet 항공기가 미국 Houston-William P. Hobby 공항에 착륙 후 활주로를 벗어나 우측 날개가 심하게 손상되었으나, 인명피해 없음."
+24,2023-02-17,CTEH,Beechcraft B200 Super King Air,ICL,5,5,CTEH 소속 Beechcraft B200 Super King Air 항공기가 미국 Hillary Clinton National 공항에서 이륙 후 초기상승 중 지형지물에 충돌하여 탑승자 5명 전원 사망함. 
+25,2023-02-28,ZAM Air Service,Cessna 208B Grand Caravan,ENR,2,2,"ZAM Air Service 소속 Cessna 208B Grand Caravan 항공기가 캐나다 Nakina지역에서 실종되었다가 4일 후인 3월 4일에 잔해 발견, 탑승자 2명 전원 사망함."
+26,2023-03-05,Nesama LLC dba Volato,Honda HA-420 HondaJet Elite,LDG,2,,"Nesama LLC dba Volato 소속 Honda HA-420 HondaJet Elite 항공기가 미국 Buena Vista-Central Colorado Regional 공항에 착륙 중 강한 측풍으로 인해 활주로를 이탈하여 유도로 표지와 충돌, 좌측 날개 및 동체 하단에 상당한 손상을 입었으나 인명피해 없음. "
+27,2023-03-08,US Air Force (USAF),Boeing C-32A (757-2G4),LDG,,,US Air Force 소속 Boeing C-32A (757-2G4) 항공기가 요르단 Amman-Queen Alia 공항에 착륙 중 꼬리날개와 활주로 지면이 충돌하였으나 인명피해 없음.
+28,2023-03-22,United Airlines,Airbus A320-232,LDG,,156,United Airlines 소속 Airbus A320-232 항공기가 미국 Houston-George Bush 공항에 착륙 중 비행속도와 피치(Pitch)자세 유지 실패로 꼬리날개와 활주로 지면이 충돌하였으나 인명피해 없음.
+29,2023-03-27,Xceed Management Group LLC,Cessna 550 Citation II,LDG,4,,"Xceed Management Group LLC 소속 Cessna 550 Citation II 항공기가 미국 Oklahoma City-Wiley Post 공항에 착륙 중 미숙한 조작으로 하드랜딩 후 활주로 이탈, 활주로 표지와 충돌하여 우측 날개에 상당한 손상을 입었으나 인명피해 없음."
+30,2023-03-30,Minnesota Equipment Leasing Services Inc,Cessna 525B CitationJet CJ3,ENR,1,,"Minnesota Equipment Leasing Services Inc 소속 Cessna 525B CitationJet CJ3 항공기가 미국 Tampa 인근에서 비행 중에 좌측 날개의 윙렛이 분리되면서 비상선언 후 Tampa 공항에 비상착륙, 인명피해 없음."
+31,2023-04-01,Discovery Jets,Cessna 750 Citation X,LDG,2,,"Discovery Jets 소속 Cessna 750 Citation X 항공기가 미국 Belmar/Farmingdale-Monmouth Executive 공항에 착륙 중에 강한 측풍으로 인한 활주로 이탈로 상당한 손상을 입었으나, 인명피해 없음. "
+32,2023-04-13,Emirates,Boeing 777-31HER,STD,,,"Emirates 소속 Boeing 777-31HER 항공기가 미국 Miami 공항에 주기 중 Air Transat 소속 Airbus A330-243 항공기의 좌측 날개가 Emirates 항공기의 우측 에일러론과 충돌하였으나, 인명피해 없음. "
+33,2023-04-14,Northwestern Air Lease,British Aerospace 3112 Jetstream 31,LDG,2,,"Northwestern Air Lease 소속 British Aerospace 3112 Jetstream 31 항공기가 캐나다 Fort Smith 공항에 착륙 중 좌측 메인 랜딩기어가 무너져 활주로를 이탈, 항공기는 크게 손상되었으나 인명피해 없음."
+34,2023-04-16,TAG Airlines,Saab 340A,LDG,17,,"TAG Airlines 소속 Saab 340A 항공기가 과테말라 Flores-Mundo Maya 공항에 착륙 중 랜딩기어 신호 이상으로 관제탑에 육안 확인을 요청 후 문제가 없다고 판단하였으나 착륙 도중 랜딩기어가 붕괴되면서 활주로에서 이탈하여 항공기 손상, 인명피해 없음."
+35,2023-04-26,Air Canada,Boeing 777-233LR,UNK,278,,Air Canada 소속 Boeing 777-233LR 항공기가 호주 Sydney-Kingsford Smith 공항에 주기 후 지상조업원이 좌측 날개에 조류충돌로 인한 손상을 확인하였음.
+36,2023-05-04,LATAM Chile,Boeing 787-8 Dreamliner,PBT,,,LATAM Chile 소속 Boeing 787-8 Dreamliner 항공기가 콜롬비아 Bogota-Eldorado 공항에서 푸쉬백 중 토잉카가 회전하는 과정에서 동체에 충돌하였음.
+37,2023-05-05,American Airlines,Airbus A321-231 (WL),LDG,177,,"American Airlines 소속 Airbus A321-231 (WL) 항공기가 미국 Charlotte-Douglas 공항에 착륙 중 정풍이 배풍으로 바뀌면서 강하율이 증가하여 이를 보상하기 위해 기수를 올리면서 테일 스트라이크가 발생하였으나, 인명피해 없음."
+38,2023-05-06,UPS Airlines,Boeing 747-428F,LDG,3,,"UPS Airlines 소속 Boeing 747-428F 항공기가 일본 Tokyo-Narita 공항에 착륙 시도 중 하드랜딩으로 복행 후 안전하게 착륙하였으나, 검사 결과 동체에 손상을 입은 것으로 나타남."
+39,2023-05-10,Phoenix Air,Learjet 36A,ENR,3,3,Phoenix Air 소속 Learjet 36A 항공기가 미국 San Clemente Island 남서쪽 1.7km 지점에서 바다에 추락하면서 탑승자 3명이 전원 사망함. 
+40,2023-05-11,Angkasa Super Services,Hawker 900XP,LDG,8,,"IAngkasa Super Services 소속 Hawker 900XP 항공기가 인도네시아 Maleo 공항에 착륙 중 활주로를 이탈하여 항공기는 상당한 손상을 입었으나, 인명피해 없음."
+41,2023-05-12,Bar Aviation,Cessna 208B Grand Caravan,LDG,2,,"Bar Aviation 소속 Cessna 208B Grand Caravan 항공기가 우간다 Kampala-Kajjansi 비행장에 착륙 중 활주로를 이탈하여 기체가 전복되면서 엔진과 좌측 날개가 동체에서 분리되었으며, 조종사 1명은 심각한 부상을 입음."
+42,2023-05-14,Cargolux,Boeing 747-4R7F,LDG,,,"Cargolux 소속 Boeing 747-4R7F 항공기가 룩셈부르크 Luxembourg-Findel 공항에서 이륙 후 기술적 문제로 연료 덤핑 후 착륙하는 과정에서 랜딩기어가 붕괴되었으나, 인명피해 없음."
+43,2023-05-16,Trans Maldivian Airways,de Havilland Canada DHC-6 Twin Otter 300,LDG,8,,"Trans Maldivian Airways 소속 de Havilland Canada DHC-6 Twin Otter 300 항공기가 몰디브 Vommuli 수상비행장에 착수 중 항공기가 튕겨 나가면서 좌측 날개가 손상되었으나, 인명피해 없음. "
+44,2023-05-18,Upfrunt Services LLC,Honda HA-420 HondaJet,LDG,6,,"Upfrunt Services LLC 소속 Honda HA-420 HondaJet 항공기가 미국 Summerville 공항에 착륙 중 수막현상으로 미끄러져 활주로를 이탈하면서 항공기에 화재가 발생하였으나, 인명피해 없음."
+45,2023-05-20,Seafly LLC,Viking Air DHC-6 Twin Otter 400,ENR,2,2,Seafly LLC 소속 Viking Air DHC-6 Twin Otter 400 항공기가 태평양 Half Moon Bay 공항 서쪽 54km 지점에서 추락하여 탑승자 전원 사망함.
+46,2023-05-30,Sundt Air,Bombardier BD-100 Challenger 350,TXI,3,,"Sundt Air 소속 Bombardier BD-100 Challenger 350 항공기가 영국 Dundee 공항에서 지상이동 중 주기장 기둥과 좌측 날개가 충돌하면서 상당한 손상을 입었으나, 인명피해 없음."
+47,2023-06-04,Encore Motors of Melbourne Inc,Cessna 560 Citation V,ENR,4,4,Encore Motors of Melbourne Inc 소속 Cessna 560 Citation V 항공기가 미국 Montebello 인근에서 추락하여 탑승자 전원 사망함.
+48,2023-06-05,WestJet,Boeing 737-8CT (WL),STD,150,,"WestJet 소속 Boeing 737-8CT (WL) 항공기가 캐나다 Calgary 공항에서 지상조업차량과 충돌하여 하부 동체와 레이돔에 손상을 입었으며, 인명피해 없음."
+49,2023-06-06,Premier LJ40 Inc,Dassault Falcon 10,LDG,5,,"Premier LJ40 Inc 소속 Dassault Falcon 10 항공기가 미국 Panama City-Northwest Florida Beaches 공항에 착륙 중 브레이크 및 역추진 장치의 오작동으로 활주로를 이탈하여 항공기가 크게 파손되었으나, 인명피해 없음."
+50,2023-06-15,Scoot,Boeing 787-9 Dreamliner,LDG,,,Scoot 소속 Boeing 787-9 Dreamliner 항공기가 대만 Taiwan Taoyuan 공항에 착륙하여 게이트에 도착한 후 인천공항에서 이륙 중에 노즈 랜딩기어의 좌측 타이어가 손실된 것을 발견하였음.
+51,2023-06-21,Brussels Airlines,Airbus A320-214,TXI,181,,"Brussels Airlines 소속 Airbus A320-214 항공기가 리투아니아 Vilnius 공항에서 활주로에 진입 중 메인 랜딩기어의 좌측 타이어가 파열되면서 나온 부품들로 인해 랜딩기어 등이 손상되었으나, 인명피해 없음."
+52,2023-06-23,SAM Air,Cessna 208 Caravan 675,ENR,6,6,SAM Air 소속 Cessna 208 Caravan 675 항공기가 인도네시아 Elelim 서쪽 12km 지점에서 능선에 충돌하여 탑승자 전원 사망함.
+53,2023-06-24,Cathay Pacific,Boeing 777-367ER,TOF,310,,"Cathay Pacific 소속 Boeing 777-367ER 항공기가 홍콩 Hong Kong-Chek Lap Kok 공항에서 이륙 단계에서 이륙포기 후 주기장으로 돌아와 탑승교 연결을 기다리던 중 메인 랜딩기어 좌측에 화재가 발생, 대피과정에서 승객 11명이 피해를 입었음."
+54,2023-06-28,Delta Air Lines,Boeing 717-2BD,LDG,104,,"Delta Air Lines 소속 Boeing 717-2BD 항공기가 미국 Charlotte-Douglas 공항에 착륙 중 노즈 랜딩기어가 펴지지 않아 상당한 손상을 입었으나, 인명피해 없음. "
+55,2023-07-03,Arne Aviation LLC,Cessna 208B Supervan 900,LDG,1,,"Arne Aviation LLC 소속 Cessna 208B Supervan 900 항공기가 미국 Suffolk Executive 공항에 착륙 중 플레어가 부족하여 노즈 랜딩기어가 붕괴되어 활주로를 이탈하였으나, 인명피해 없음."
+56,2023-07-06,Aircompany Parma,Antonov An-2R,ENR,3,,"Aircompany Parma 소속 Antonov An-2R 항공기가 러시아 Kirov 지역 근처에서 엔진 고장으로 비상착륙 도중 나무 여러 그루와 충돌하였으나, 인명피해 없음."
+57,2023-07-08,Prestige Worldwide Flights LLC,Cessna 550 Citation II,APR,6,6,Prestige Worldwide Flights LLC 소속 Cessna 550 Citation II 항공기가 미국 Murrieta/Temecula-French Valley 공항에서 저시정으로 인한 복행 후 두 번째 접근 중 활주로를 0.2km 앞둔 지점에서 추락하여 탑승자 전원 사망함. 
+58,2023-07-11,Halla Airlines,Embraer EMB-120 Brasilia,LDG,34,,Halla Airlines 소속 Embraer EMB-120 Brasilia 항공기가 소말리아  Mogadishu Aden Adde 공항에 착륙 중 윈드시어로 인해 활주로를 이탈하여 탑승자 2명이 부상을 입음.
+59,2023-07-17,Skydive Warsaw,Cessna 208B Grand Caravan,TOF,3,6,Skydive Warsaw 소속 Cessna 208B Grand Caravan 항공기가 폴란드 Chrcynno 비행장에서 터치 앤 고 훈련비행 중 격납고에 추락하여 탑승자 3명 중 1명과 지상에 있던 5명이 사망함.
+60,2023-07-22,Royal Canadian Air Force - RCAF,Airbus CC-150 Polaris (A310-300),STD,,,Royal Canadian Air Force - RCAF 소속 Airbus CC-150 Polaris (A310-300) 항공기가 미국 Guam-Andersen 기지에 주기 중에 바퀴를 초크로 고정하지 않아 뒤쪽으로 굴러가면서 프랑스 공군의 Airbus A400M 항공기와 충돌하여 수직안정판에 심각한 손상을 입음.
+61,2023-07-22,-,Antonov An-26,TOF,10,9,소속 불명의 Antonov An-26 항공기가 수단 Port Sudan 공항에서 이륙 중 추락하여 탑승자 10명 중 9명이 사망하고 어린이 1명은 부상을 입음.
+62,2023-07-24,Delta Air Lines,Boeing 767-332ER (WL),ENR,,,"Delta Air Lines 소속 Boeing 767-332ER (WL) 항공기가 이탈리아 Milan 지역 서쪽에서 상승 중 우박을 맞아 레이돔, 날개 앞쪽, 엔진 스피너 등이 손상되어 Rome-Fiumicino 공항으로 회항 후 안전하게 착륙함."
+63,2023-07-25,Elleniki Polemiki Aeroporia,Canadair CL-215-1A10,MNV,2,2,Elleniki Polemiki Aeroporia 소속 VCanadair CL-215-1A10 항공기가 그리스 Platanistos 인근에서 산불 진화 도중 지형에 충돌 후 추락하여 탑승자 전원 사망함.
+64,2023-07-28,Unknown,Cessna 650 Citation VII,ICL,3,3,"소속 불명의 Cessna 650 Citation VII 항공기가 멕시코 Veracruz-General Heriberto Jara Corona 공항에서 이륙하여 상승 중 급격히 하강하여 Veracruz 앞바다에 추락, 탑승자 전원 사망함."
+65,2023-07-29,United Airlines,Boeing 767-322ER (WL),LDG,202,,"United Airlines 소속 Boeing 767-322ER (WL) 항공기가 미국 Houston-George Bush 공항에 착륙하던 중 하드랜딩으로 상부 동체 크라운에 상당한 손상을 입었으나, 인명피해 없음. "
+66,2023-07-29,Alkan Air,Beechcraft B300 King Air 350,TXI,5,,"Alkan Air 소속 Beechcraft B300 King Air 350 항공기가 캐나다 Vancouver 공항 관제탑에서 항공고시보를 통해 폐쇄한 유도로로 잘못 허가를 내려 계기비행기상상태에서 지상이동 중에 차단막에 충돌하여 노즈 랜딩기어 및 프로펠러가 상당한 손상을 입었으나, 인명피해 없음."
+67,2023-08-07,Federal Airlines,Cessna 208B Grand Caravan,LDG,9,,"Federal Airlines 소속 Cessna 208B Grand Caravan 항공기가 남아프리카 Arathusa Safari Lodge에 착륙 후 지상활주 중 우측 브레이크가 고장 나 활주로를 오버런하였으나, 인명피해 없음."
+68,2023-08-07,Garuda Indonesia,Boeing 737-8U3 (WL),LDG,152,,"Garuda Indonesia 소속 Boeing 737-8U3 (WL) 항공기가 인도네시아 Banjarmasin-Sjamsudin Noor 공항에서 착륙 포기 후 복행하던 중 테일 스트라이크를 겪었으나 이후 안전하게 착륙, 인명피해 없음."
+69,2023-08-09,WestJet Airlines,Boeing 737-7CT (WL),TXI,130,,"WestJet Airlines 소속 Boeing 737-7CT (WL) 항공기가 캐나다 Comox Valley 공항에서 지상이동 중 주기되어 있던 RCAF 소속 Lockheed CC-130H Hercules와 충돌하였으나, 인명피해 없음."
+70,2023-08-09,Binter Canarias,ATR 72-600,LDG,73,,Binter Canarias 소속 ATR 72-600 항공기가 스페인 Las Palmas-Airport de Gran Canaria 공항에 착륙 후 점검 결과 메인 랜딩기어의 타이어 및 림의 마모를 확인함.
+71,2023-08-15,Ameriflight,Beechcraft C99 Commuter,ICL,1,,"Ameriflight 소속 Beechcraft C99 Commuter 항공기가 미국 Lansing-Capital Region 공항에서 러더 트림 위치를 중립으로 설정하지 않은 채 이륙하여 이륙 직후 제어를 상실하고 유도로에 착륙하는 과정에서 지형에 충돌하여 양쪽 날개와 동체에 상당한 손상을 입었으며, 인명피해 없음."
+72,2023-08-17,Jetvalet Sdn Bhd,Raytheon 390 Premier I,APR,8,10,Jetvalet Sdn Bhd 소속 Raytheon 390 Premier I 항공기가 말레이시아 Sultan Abdul Aziz Shah 공항에 접근 중 제어를 상실하고 인근 고속도로에 충돌하여 탑승자 전원 및 지상의 자동차와 오토바이 운전자 2명이 사망함. 
+73,2023-08-18,Emirates Airlines,Airbus A380-861,APR,,,"Emirates Airlines 소속 Airbus A380-861 항공기가 프랑스 Nice-Cote d'Azur 공항에 접근 중 소음과 진동을 느꼈으나 접근을 지속해 정상적으로 착륙, 점검 결과 우측 날개의 슬랫 상부가 파손된 것으로 밝혀짐."
+74,2023-08-20,Alaska Airlines,Boeing 737-890 (WL),LDG,112,,"Alaska Airlines 소속 Boeing 737-890 (WL) 항공기가 미국 Santa Ana-John Wayne 공항에 착륙 중 좌측 메인 랜딩기어가 붕괴되었으나, 인명피해 없음."
+75,2023-08-21,Northern Illinois Flight Center,IAI 1125 Astra SP,LDG,2,,"Northern Illinois Flight Center 소속 IAI 1125 Astra SP 항공기가 미국 Chicago-Executive 공항에 착륙 후 브레이크 제동이 되지 않아 비상 브레이크를 사용해 감속 후 유도로 진입을 시도했으나, 풀밭으로 미끄러져 우측 메인 랜딩기어가 붕괴되었고 인명피해 없음. "
+76,2023-08-22,"UAS Transervices Inc, opb. Wiggins Airways",Beechcraft C99 Commuter,ENG,2,2,Wiggins Airways 소속 Beechcraft C99 Commuter 항공기가 미국 Litchfield 인근에서 비행훈련 중 추락하여 탑승자 전원 사망함. 
+77,2023-08-23,"MNT-Aero, opf Wagner Group",Embraer EMB-135BJ Legacy 600,ENR,10,10,"MNT-Aero, opf Wagner Group 소속 Embraer EMB-135BJ Legacy 600 항공기가 러시아 Kuzhenkino 인근 들판에 추락하여 탑승자 전원 사망함."
+78,2023-08-24,Air Antilles,Viking Air DHC-6 Twin Otter 400,LDG,6,,"Air Antilles 소속 Viking Air DHC-6 Twin Otter 400 항공기가 생바르텔레미의 Saint-Barth Remy de Haenen 공항에 착륙 중 활주로를 이탈하면서 주기된 에어버스 헬리콥터에 충돌하였으나, 인명피해 없음."
+79,2023-08-24,Flamingo Air,Beechcraft B99 Airliner,LDG,11,,"Flamingo Air 소속 Beechcraft B99 Airliner 항공기가 바하마 Black Point 비행장에 랜딩기어를 내리지 않은 채 착륙하였으나, 인명피해 없음."
+80,2023-08-30,Air France,Boeing 777-328ER ,TXI,,,"Air France 소속 Boeing 777-328ER 항공기가 프랑스 Paris-Charles de Gaulle 공항에서 지상이동 중 선회구역 경로 앞 쪽에서 홀딩 중이던 Delta Air Lines 소속 Airbus A330-941 항공기의 윙렛과 Air France 소속 항공기의 꼬리날개가 충돌하였으나, 인명피해 없음. "
+81,2023-09-01,Tropicair,Beechcraft B200C Super King Air,LDG,7,,"Tropicair 소속 Beechcraft B200C Super King Air 항공기가 파푸아뉴기니 Port Moresby-Jacksons 공항에 착륙 중 노즈 랜딩기어가 붕괴되었으나, 인명피해 없음."
+82,2023-09-07,Perimeter Aviation,Fairchild SA227-DC Metro 23,LDG,10,,"Perimeter Aviation 소속 Fairchild SA227-DC Metro 23 항공기가 캐나다 Detour Lake 공항에 착륙 중 복행, 두 번째 착륙 시도에서 우측 날개와 노즈가 활주로에 닿아 항공기가 파손되면서 활주로를 이탈하였으나, 인명피해 없음. "
+83,2023-09-08,Airselect LLC,Beechcraft 200 Super King Air,APR,1,,Airselect LLC 소속 Beechcraft 200 Super King Air 항공기가 미국 Waterloo 공항에 접근 중 최소연료(Minimum fuel) 상태에서 복행 했다가 재접근 시 엔진아웃 되어 Elk Grove Village 인근 숲이 우거진 지형에 불시작하여 조종사는 심각한 부상을 입음.
+84,2023-09-14,Learjet 45XR,VSR Ventures,LDG,8,,VSR Ventures 소속 Learjet 45XR 항공기가 인도 Mumbai-Chhatrapati Shivaji 공항에 착륙 중 활주로 중심선에서 오른쪽으로 표류하다가 오토파일럿 해제 후 스톨에 걸려 유도로에 추락하면서 동체가 분리되어 탑승자들은 부상을 입음.
+85,2023-09-16,Manaus Aerotaxi,Embraer EMB-110P1 Bandeirante,LDG,14,14,"Manaus Aerotaxi 소속 Embraer EMB-110P1 Bandeirante 항공기가 브라질 Barcelos 공항에 폭우 속에서 착륙하던 중 제동이 안 되어 활주로를 이탈, 공항의 펜스 및 제방과 충돌하여 탑승자 전원 사망함. "
+86,2023-09-18,DHL International Aviation,Boeing 767-323ER (BDSF) (WL),LDG,,,"DHL International Aviation 소속 Boeing 767-323ER (BDSF) (WL) 항공기가 레바논 Beirut-Rafic Hariri 공항에 하드랜딩 하여 동체 표피에 주름이 졌으나, 인명피해 없음."
+87,2023-09-19,Air Europa,Boeing 737-85P (WL),TXI,,,"Air Europa 소속 Boeing 737-85P (WL) 항공기가 스페인 Palma de Mallorca 공항에서 Condor 소속 Boeing 757-330 (WL) 항공기와 충돌하여 파손되었으나, 인명피해 없음."
+88,2023-09-21,Flexjet LLC,Embraer EMB-545 Praetor 500,LDG,8,,"Flexjet LLC 소속 Embraer EMB-545 Praetor 500 항공기가 미국 Brunswick-Malcolm McKinnon 공항에서 하드랜딩으로 항공기가 상당한 손상을 입었으나, 인명피해 없음."
+89,2023-09-23,Malian Air Force,Ilyushin Il-76TD,LDG,,2,"Malian Air Force 소속 Ilyushin Il-76TD 항공기가 말리 Gao 공항에 착륙 중 오버런 하면서 제방에 충돌, 탑승자 수는 밝혀지지 않았으나 러시아인 조종사와 말리인 승무원 2명이 사망함."
+90,2023-09-28,American Airlines,Boeing 787-8 Dreamliner,ENR,238,,"American Airlines 소속 Boeing 787-8 Dreamliner 항공기가 미국 Detroit 인근에서 기내용 갤리가 넘어지면서 객실승무원이 심각한 부상을 입어, 비상선언 후 Philadephia 공항에 착륙함."
+91,2023-09-30,United Airlines,Boeing 737 MAX 9,TOF,173,,"United Airlines 소속 Boeing 737 MAX 9 항공기가 미국 Denver 공항에서 이륙 활주 중 우측 날개 밑에서 화재 및 연기가 발생하여 이륙을 중단, 인명피해 없음. "
+92,2023-10-04,AeroParadise,Learjet 45,LDG,7,,"AeroParadise 소속 Learjet 45 항공기가 멕시코 El Lencero 공항에 착륙 중 활주로를 이탈하여 수평안정판 및 우측 날개가 크게 손상되었으나, 인명피해 없음."
+93,2023-10-04,FedEx Express,Boeing 757-236 (SF),LDG,3,,"FedEx Express 소속 Boeing 757-236 (SF) 항공기가 미국 Chattanooga-Lovell Field 공항에서 이륙 직후 왼쪽 유압시스템에 장애가 발생하여 이륙공항으로 착륙을 시도하던 중, 랜딩기어 시스템 및 비상 랜딩기어 장치도 작동하지 않아 비상선언 후 벨리랜딩 하여 항공기는 상당한 손상을 입었으나 인명피해 없음."
+94,2023-10-04,Titan Airways,Airbus A321-253NX,ENR,20,8,"Titan Airways 소속 Airbus A321-253NX 항공기가 영국 London-Stansted 공항 인근에서 상승 중 과도한 소음을 느껴 London-Stansted 공항으로 회항하였으며, 이후 창문 3개가 유실 및 헐거워져 있었고 좌측 수평안정판이 파손된 것으로 파악됨."
+95,2023-10-15,Skydive Center Tallard,Cessna 208 Caravan I,ENR,1,1,Skydive Center Tallard 소속 Cessna 208 Caravan I 항공기가 스카이다이버 낙하 후 프랑스 Gap-Tallard 비행장 인근에서 숲이 우거진 산허리에 추락하여 조종사가 사망함.
+96,2023-10-16,Maya Island Air,Cessna 208B Grand Caravan,TOF,2,2,"Maya Island Air 소속 Cessna 208B Grand Caravan 항공기가 벨리즈 Placencia 공항에서 이륙 후 변압기에 충돌하여 공항 북쪽 0.5마일 지점에 추락, 항공기는 화재로 전소하였으며 탑승자 전원 사망함. 해당 항공기는 약물 운반용으로 사용된 것으로 추측됨."
+97,2023-10-18,CSW Aviation LLC,Beechcraft 300 Super King Air,LDG,2,,"CSW Aviation LLC 소속 Beechcraft 300 Super King Air 항공기가 미국 Dekalb-Peachtree 공항에 빠른 속도로 착륙하면서 활주로를 오버런 하였으나, 인명피해 없음."
+98,2023-10-20,Skydive Australia,Cessna 208 Supervan,ICL,17,,"Skydive Australia 소속 Cessna 208 Supervan 항공기가 호주 Barwon Heads 공항에서 이륙 후 초기 상승 중 엔진이 고장 나면서 공항 인근 목장에 비상착륙하였으나, 인명피해 없음. "
+99,2023-10-20,Ilyushin Il-76MD,Russian Air Force,TOF,8,,"Russian Air Force 소속 Ilyushin Il-76MD 항공기가 타지키스탄 Dushanbe-Gissar 기지에서 이륙 활주 중 4번 엔진에 화재 발생으로 활주로를 이탈하여 항공기는 전소하였으나, 인명피해 없음."
+100,2023-10-24,Whitmore Holdings LLC,Raytheon Hawker 850XP,TOF,3,,"Whitmore Holdings LLC 소속 Raytheon Hawker 850XP 항공기가 미국 William P. Hobby 공항에서 관제지시를 위반, 활주로에 침범하여 이륙 중 교차활주로에 착륙한 SB 501 LLC 소속 Cessna Citation Mustang 항공기(5명 탑승)와 충돌하여 항공기가 손상되었으나, 인명피해 없음. "
+101,2023-10-25,Westair Aviation,Reims-Cessna F406 Caravan II,ENR,6,,"Westair Aviation 소속 Reims-Cessna F406 Caravan II 항공기가 남비아 Osire 인근에서 수평꼬리날개 조종면(엘리베이터) 케이블이 고장나 제어에 문제가 발생하여 농장에 비상착륙을 하면서 항공기는 상당한 손상을 입었으나, 인명피해 없음. "
+102,2023-10-29,ART Taxi Aereo Ltda,Cessna 208B Grand Caravan,ICL,12,12,"ART Taxi Aereo Ltda 소속 Cessna 208B Grand Caravan 항공기가 브라질 Rio Branco Placido de Castro 공항에서 이륙 직후 숲이 우거진 지역에 추락하여 파괴, 탑승자 전원 사망함."
+103,2023-10-30,Forca Aerea Brasileira - FAB,Cessna C-98 Caravan I (208A),ICL,5,,Forca Aerea Brasileira - FAB 소속 Cessna C-98 Caravan I (208A) 항공기가 이륙 직후 브라질 Palimiu Community 인근 하천에 비상착륙하면서 탑승자들이 경미한 부상을 입음. 
+104,2023-11-01,Jet Rescue Air Ambulance,Learjet 35A,LDG,4,4,Jet Rescue Air Ambulance 소속 Learjet 35A 항공기가 멕시코 Cuernavaca 공항에서 착륙 중 긴 터치다운으로 인한 제동거리 부족으로 활주로를 오버런 후 제방에 충돌하여 탑승객 전원 사망함. 
+105,2023-11-03,Rico Taxi Aereo,Embraer EMB-110P1 Bandeirante,LDG,17,,"Rico Taxi Aereo 소속 Embraer EMB-110P1 Bandeirante 항공기가 브라질 Manaus-Eduardo Gomes 공항에 착륙 중 활주로를 이탈하여 배수로에 부딪혔으나, 인명피해 없음. "
+106,2023-11-03,Mark Anthony Group Inc.,Pilatus PC-24,ENR,3,,"Mark Anthony Group Inc. 소속 Pilatus PC-24 항공기가 캐나다 Kelowna 인근에서 비행 중 조종능력상실(LOC-I)로 비상사태를 선포하고 Vancouver 공항에 비상착륙 하였으나, 인명피해 없음. "
+107,2023-11-10,Airpartner op. for Stryzh Avia,Antonov An-2R (TR-301 conv.),ENR,3,,Airpartner 소속 Antonov An-2R (TR-301 conv.) 항공기가 러시아 Chukotka에서 악천후로 추락하여 탑승자들이 부상을 입음.
+108,2023-11-15,TVPX Aircraft Solution INC Trustee,Cessna 208B Grand Caravan EX,ENR,7,,"TVPX Aircraft Solution INC Trustee 소속 Cessna 208B Grand Caravan EX 항공기가 파라과이 Mariscal Estigarribia 인근에서 농장의 흙 표면 활주로에 접근하던 중 나무에 충돌하였으나, 탑승자들은 가벼운 부상을 입음. "
+109,2023-11-20,US Navy (USN),Boeing P-8A Poseidon,LDG,9,,"US Navy (USN) 소속 Boeing P-8A Poseidon 항공기가 미국 Kaneohe Bay MCAS 기지에서 착륙하던 중 활주로를 오버슛하여 바다에 빠지게 되면서 항공기는 상당한 피해를 입었으나, 인명피해 없음. "
+110,2023-11-26,"Ultra Air, LLC",Cessna 560XL Citation Excel,ENR,9,,"Ultra Air, LLC 소속 Cessna 560XL Citation Excel 항공기가 미국 Council Bluffs 인근에서 구름층을 통과해 강하 중 새 떼와 충돌하여 수평안전판이 손상되었으나, 인명피해 없음."
+111,2023-11-28,Sindbard Air,Embraer EMB-120ER Brasilia,TOF,34,,"Embraer EMB-120ER Brasilia 소속 Sindbard Air 항공기가 탄자니아 Kikoboga/Mikumi 비행장에서 이륙 중 건물에 충돌하여 우측 날개와 노즈 랜딩기어가 붕괴되었으나, 인명피해 없음. "
+112,2023-11-30,Aircraft Charter Group LLC,Beechcraft 400A Beechjet,LDG,2,,"Aircraft Charter Group LLC 소속 Beechcraft 400A Beechjet 항공기가 미국 Dekalb-Peachtree 공항에 착륙 중 기어가 붕괴되면서 항공기가 상당한 손상을 입었으나, 인명피해 없음."
+113,2023-11-30,Hawaiian Airlines,Boeing 717-2BL,TXI,119,,Hawaiian Airlines 소속 Boeing 717-2BL 항공기가 미국 Kahului 공항에서 지상이동 중 견인차량과 충돌하여 좌측 날개에 경미한 손상을 입었으며 주기장의 지상조업요원이 가벼운 부상을 입음. 
+114,2023-12-08,Lulutai Airlines,Saab 340B,TXI,,,"Lulutai Airlines 소속 Saab 340B 항공기가 통가 Fuaamotu 공항에 접근 중 유압시스템 이상이 발생하였으나 무사히 착륙 후 주기장으로 이동하는 과정에서 브레이크 시스템의 유압이 손실되어 콘크리트 벽과 충돌하여 항공기에 상당한 손상을 입었으나, 인명피해 없음."
+115,2023-12-15,Peddler LLC,Cessna 510 Citation Mustang,LDG,1,,"Roma Participacoes 소속 Cessna 510 Citation Mustang 항공기가 브라질 Ijui-J. Batista Bos Filho 공항에 착륙 중 활주로를 이탈하였으나, 인명피해 없음."
+116,2023-12-17,Government of Kenya,Cessna 208B Grand Caravan,ICL,10,,"Government of Kenya 소속 Cessna 208B Grand Caravan 항공기가 케냐 Kiunga 비행장에서 이륙 후 전선에 충돌하여 추락하면서 항공기에 화재가 발생하였으나, 전원 탈출함."
+117,2023-12-19,Southwest Airlines,Boeing 737-8H4 (WL),UNK,107,,"Southwest Airlines 소속 Boeing 737-8H4 (WL) 항공기가 미국 Saint Louis 북동쪽 인근에서 좌측 수평안정판에 크랙이 생겼으나, 이후 조류 충돌로 인한 것으로 밝혀짐."
+118,2023-12-27,de Havilland Canada DHC-6 Twin Otter 300,Air Tindi,APR,10,,Air Tindi 소속 de Havilland Canada DHC-6 Twin Otter 300 항공기가 캐나다 Lac De Gras로 접근 중 Diavik Diamond Mine으로 16km 지점에서 지형에 충돌하여 항공기는 상당한 손상을 입고 탑승자들은 중경상을 입음.
+119,2023-12-30,Kalyon Guven Aviation,Cessna 560XL Citation XLS,LDG,4,,"Kalyon Guven Aviation 소속 Cessna 560XL Citation XLS 항공기가 튀르키예 Diyarbakir 공항에 착륙 중 저시정으로 인해 활주로를 이탈하여 좌측 메인 랜딩기어가 붕괴되었으나, 인명피해 없음."
+120,2023-12-30,"Aer Lingus Regional, opb Emerald Airlines UK",ATR 72-600,LDG,,,"Aer Lingus Regional 소속 ATR 72-600 항공기가 영국 Belfast City 공항에 착륙을 시도하다 2회 복행하여 Belfast 공항으로 회항 후 착륙하여 확인 결과 노즈 랜딩기어에 상당한 손상을 입었으나, 어느 시점에서 손상이 발생하였는지 불분명함."
