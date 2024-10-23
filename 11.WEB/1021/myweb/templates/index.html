@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web</title>
+
+    <!-- 외부 css 파일 설정 -->
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/main.css')}}">
+
+</head>
+<body>
+    야구 보러 갈래잉
+
+    <img src="{{url_for('static',filename='images/rkawk.jpg')}}"> <br>
+
+    <ul>
+        <li><a href="/info">INFO</a></li>
+    </ul>
+</body>
+</html>
