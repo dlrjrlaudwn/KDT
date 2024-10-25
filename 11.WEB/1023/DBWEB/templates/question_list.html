@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        th, td {border: 1px solid black;
+                border-collapse: collapse;}
+    </style>
+</head>
+<body>
+    <h1>질문 게시판</h1>
+    <!-- ver 1. 테이블 형태 -->
+    <table>
+        <tr>
+            <th>id</th>
+            <th>subject</th>
+            <th>content</th>
+            <th>date</th>
+        </tr>
+        {% if question_list %}
+            {% for question in question_list %}
+            <tr>
+                <td>
+                    <a href="/qdetail/{{question.id}}">{{question.id}}</a>
+                </td>
+                <td>{{question.subject}}
+
+                </td>
+                
+                <td>{{question.content}}</td>
+                <td>{{question.create_date}}</td>
+            </tr>
+            {% endfor %}
+        {% else %}
+        <tr>
+            <td class="msg" colspan="3"> 등록된 질문이 없습니다. </td>
+        </tr>
+        {% endif %}
+    </table>
+    
+    <br><hr>
+
+    <!-- ver 2. 리스트 형태 -->
+    {% if question_list %}
+        <!--
+        <li>{{name}}</li>
+        <li>{{name}}</li>
+        <li>{{name}}</li>
+        <li>{{name}}</li> 
+        이렇게 하면 고정된 질문만 되니까 동적으로 개수 변하게 해야 함 => 반복문 사용
+        -->
+        {% for question in question_list %}
+        <ol> 
+            <li>{{question.id}}</li>
+            <li>{{question.subject}}</li>
+            <li>{{question.content}}</li>
+            <li>{{question.create_date}}</li>
+        </ol>
+        {% endfor %}
+    {% else %}
+        <p class="msg">등록된 질문이 없습니다</p>
+    {% endif %}
+</body>
+</html>
