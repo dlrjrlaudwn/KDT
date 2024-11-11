@@ -10,8 +10,8 @@ import numpy as np
 from PIL import Image
 
 def get_request_url(url):
-    client_id = "urvcPMtm3A4zDC5hrys3"
-    client_secret = "RnZF6PywVl"
+    client_id = #id
+    client_secret = #password
     req = urllib.request.Request(url)
     req.add_header("X-Naver-Client-Id",client_id)
     req.add_header("X-Naver-Client-Secret",client_secret)
