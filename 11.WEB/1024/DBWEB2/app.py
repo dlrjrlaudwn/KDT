@@ -9,16 +9,16 @@ import torch.nn as nn
 app = Flask(__name__)
 
 # 모델 인스턴스 생성 및 가중치 로드
-model1=torch.load(r'C:\Users\MSI\Desktop\KDT\FLASK_AI\1024\DBWEB2\models\top_model_all.pth', map_location='cpu')
+model1=torch.load(r'C:\dlrj_rlaudwn\kdt\KDT-2\11.WEB\1024\DBWEB2\models\top_model_all.pth', map_location='cpu')
 model1.eval()
 
-model2=torch.load(r'C:\Users\MSI\Desktop\KDT\FLASK_AI\1024\DBWEB2\models\bottom_model_all.pth', map_location='cpu')
+model2=torch.load(r'C:\dlrj_rlaudwn\kdt\KDT-2\11.WEB\1024\DBWEB2\models\bottom_model_all.pth', map_location='cpu')
 model2.eval()
 
-model3=torch.load(r'C:\Users\MSI\Desktop\KDT\FLASK_AI\1024\DBWEB2\models\shoes_model_all.pth', map_location='cpu')
+model3=torch.load(r'C:\dlrj_rlaudwn\kdt\KDT-2\11.WEB\1024\DBWEB2\models\shoes_model_all.pth', map_location='cpu')
 model3.eval()
 
-model4=torch.load(r'C:\Users\MSI\Desktop\KDT\FLASK_AI\1024\DBWEB2\models\acc_model_all.pth', map_location='cpu')
+model4=torch.load(r'C:\dlrj_rlaudwn\kdt\KDT-2\11.WEB\1024\DBWEB2\models\acc_model_all.pth', map_location='cpu')
 model4.eval()
 
 UPLOAD_FOLDER = 'static/uploads/'
