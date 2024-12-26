@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1 { font-size: 50px; margin-bottom: 1px; }
+
+        body, html {
+            /* margin: 10;
+            padding: 10px; */
+            height: 100%;}
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;}
+        
+        .header {
+            background-color: #020f59;
+            color: #f6c982;
+            height: 10vh;
+            text-align: center ;
+            font-family: "Gaegu", sans-serif;
+            letter-spacing: 10px;
+            /* border-radius: 3em; */
+            font-size: 70px;
+            font-weight:bold;
+            padding-top: 12px;
+        }
+
+        button {
+            background-color: #1a3073;
+            color: white;
+            border-radius: 0.7em;
+            height: 10vh;
+            text-align: center ;
+            font-family: "Gaegu", sans-serif;
+            font-size: 40px;
+            margin-left: 1%;
+        }
+
+        header > h2 {margin-top: 2px;}
+
+        /* .content {
+            display: flex;
+            flex-grow: 1;} */
+
+        .nav {
+            background-color: #1a3073;
+            margin-left: 1%;
+            color: white;
+            float: left;
+            height: 60px;
+            width: 7%;
+            font-family: "Gamja Flower", sans-serif;
+            text-align: center;
+            font-size: 50px;
+            padding-top: 5px;
+            border-radius: 0.7em;
+        }
+
+        .input,.output{
+        margin-left: 1%;
+        width: 90%;
+        }
+        
+    </style>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gaegu&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gaegu&family=Gamja+Flower&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="container">
+        <div class="header">프랑스어 문서 요약
+        </div>
+    <br>
+    <div class="content">
+        <div class="nav">본문</div>    
+        <form method="POST">
+            <textarea class="input" rows='15' cols="130" name="input_text">{{ input_text }}</textarea>
+            <br>
+            <br>
+            <button type="submit">요약하기</button>
+        </form>
+        <br>
+        <br>
+        <div class="nav">요약</div>
+        <textarea class="output" rows='10' cols="130" readonly>{{ summary }}</textarea>
+    </div>
+</body>
+</html>
